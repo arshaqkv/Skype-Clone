@@ -1,0 +1,38 @@
+
+
+@media (max-width: 768px) {
+
+    .link_wrapper .link-desc h6 {
+        font-size: 16px;
+        
+    }
+
+    .link-wrapper .link-desc p {
+        font-size: 14px;
+    }
+
+    .link_wrapper .link-desc {
+        text-align: start;
+        margin: 0 2rem;
+    }
+
+    .link_wrapper .social-link {
+        margin: auto;
+    }
+
+    .link_wrapper .social-link li{
+        margin-top: 12px;
+    }
+
+    .footer_wrapper .footsec{
+        display: flex;
+        flex-direction: column;
+        align-items: start;
+        
+     }
+     
+     .termsz_wrapper ul{
+        display: flex;
+     }
+
+}
